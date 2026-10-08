@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "csn-review": {
+      "source": "captain-solver-news/skills",
+      "sourceType": "github",
+      "skillPath": "csn-review/SKILL.md",
+      "computedHash": "0aa52d00f3136f4ad4b03bac839a822cbdbb425dd61b4e6c6c7f0dac26fb85f1"
+    }
+  }
+}
